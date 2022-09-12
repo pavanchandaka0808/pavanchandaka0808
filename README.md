@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavanchandaka0808
-- 👀 I’m interested in very simple no confusion straight forward coding snippets.
+- 👀 I’m interested in very simple no confusion straight forward code snippets.
 - 🌱 I’m currently learning C++, Python, Qt and many.
 - 💞️ I’m looking to collaborate on resolving code issues.
 - 📫 How to reach me pavanchandaka0808@gmail.com
